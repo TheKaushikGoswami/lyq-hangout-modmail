@@ -14,4 +14,4 @@ async def on_ready():
 	print("The bot is online!")
 	bot.load_extension("cogs.onMessage")
 
-bot.run("NzkzMzQ3MzA0MTMxNTI2Njg2.X-q8QA.qNUIv7nqxZKim9-RRifV-mOXF4A")
+bot.run("your-token-here")
