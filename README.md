@@ -3,6 +3,35 @@
 # Layeeque's Hangout
 ## A Modmail Bot Written in Python
 ### with usage of <code>discord.py</code> library.
+<br>
+
+<img src = ./readme-assets/banner.png>
+<br>
+<br>
+
+<a href="https://heroku.com/deploy?template=https://github.com/TheKaushikGoswami/lyq-hangout-modmail">
+    <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge&logo=Heroku">
+</a>
+
+<a href="https://discord.gg/EdHv7ZgF3M">
+    <img src="https://img.shields.io/discord/781477332992786442.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
+</a>
+
+<a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/badge/Made%20With-Python%203.7-blue.svg?style=for-the-badge&logo=Python" alt="Made with Python 3.7">
+</a>
+
+<a href="https://www.apache.org/licenses/LICENSE-2.0">
+    <img src="https://img.shields.io/badge/Library-discord.py-green?style=for-the-badge&label=Library&logo=gitbook">
+</a>
+
+<a href="https://github.com/ambv/black">
+    <img src="https://img.shields.io/badge/Code%20Style-Black-black?style=for-the-badge&logo=windows-terminal">
+</a>
+
+<a href="https://www.apache.org/licenses/LICENSE-2.0">
+    <img src="https://img.shields.io/badge/License-Apache--2.0--License-red?style=for-the-badge&label=License&logo=apache">
+</a>
 
 </div>
 <div>
